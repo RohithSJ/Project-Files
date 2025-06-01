@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-25T16:44:30 IST" name="Default suite" finished-at="2024-07-25T16:44:34 IST" duration-ms="3411">
+    <groups>
+    </groups>
+    <test started-at="2024-07-25T16:44:30 IST" name="Default test" finished-at="2024-07-25T16:44:34 IST" duration-ms="3411">
+      <class name="APITesting.Testing1">
+        <test-method is-config="true" signature="setup()[pri:0, instance:APITesting.Testing1@2e6a8155]" started-at="2024-07-25T16:44:30 IST" name="setup" finished-at="2024-07-25T16:44:31 IST" duration-ms="346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testCreateUser()[pri:0, instance:APITesting.Testing1@2e6a8155]" started-at="2024-07-25T16:44:31 IST" name="testCreateUser" finished-at="2024-07-25T16:44:34 IST" duration-ms="2944" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateUser -->
+        <test-method signature="testGetUser()[pri:0, instance:APITesting.Testing1@2e6a8155]" started-at="2024-07-25T16:44:34 IST" name="testGetUser" finished-at="2024-07-25T16:44:34 IST" duration-ms="80" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetUser -->
+      </class> <!-- APITesting.Testing1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

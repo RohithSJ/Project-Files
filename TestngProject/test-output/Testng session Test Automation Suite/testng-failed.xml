@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Testng session Test Automation Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Different Testng Feature Test(failed)">
+    <classes>
+      <class name="TestngAnnotations.Annotations">
+        <methods>
+          <include name="loginTest"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- TestngAnnotations.Annotations -->
+    </classes>
+  </test> <!-- Different Testng Feature Test(failed) -->
+</suite> <!-- Failed suite [Testng session Test Automation Suite] -->
